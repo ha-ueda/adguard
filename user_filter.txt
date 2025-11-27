@@ -1,4 +1,4 @@
-! Title: User Filter
+! Title: ユーザールール
 ! Version: 2025.11.28
 ! Homepage: https://ha-ueda.github.io/AdGuard
 
