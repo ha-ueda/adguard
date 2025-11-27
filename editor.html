@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <title>AdGuard フィルタ編集</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <style>
+        body {
+            font-family: "Segoe UI", sans-serif;
+            margin: 20px;
+        }
+        textarea {
+            width: 100%;
+            height: 300px;
+            font-size: 14px;
+        }
+        input,
+        button {
+            margin: 6px 0;
+            padding: 8px;
+            width: 100%;
+            box-sizing: border-box;
+        }
+        button {
+            background: #0078d4;
+            color: #ffffff;
+            border: none;
+            cursor: pointer;
+        }
+        button:hover {
+            opacity: 0.9;
+        }
+        #status,
+        #tokenStatus {
+            margin-top: 8px;
+            font-size: 14px;
+        }
+    </style>
+</head>
+<body>
+
+    <h2>AdGuard フィルタ編集</h2>
+
+    <h3>GitHub Token</h3>
+    <input
+        id="token"
+        type="password"
+        autocomplete="current-password"
+        placeholder="GitHub Personal Access Token（ブラウザに保存させると便利です）">
+
+    <div id="tokenStatus"></div>
+
+    <hr>
+
+    <label>Repository (username/repo)</label>
+    <input id="repo" placeholder="例: yourname/adguard-filter">
+
+    <label>File Path</label>
+    <input id="path" value="adguard.txt">
+
+    <button onclick="loadFile()">現在のフィルタを読み込む</button>
+
+    <textarea id="content" placeholder="ここにフィルタ内容が表示・編集されます"></textarea>
+
+    <button onclick="saveFile()">保存して更新</button>
+
+    <div id="status"></div>
+
+    <script>
+        async function loadFile() {
+            const repo = document.getElementById("repo").value.trim();
+            const path = document.getElementById("path").value.trim();
+            const token = document.getElementById("token").value.trim();
+
+            if (!repo || !path || !token) {
+                document.getElementById("status").innerText = "Repository / File Path / Token を入力してください。";
+                return;
+            }
+
+            const url = `https://api.github.com/repos/${repo}/contents/${path}`;
+
+            try {
+                const res = await fetch(url, {
+                    headers: {
+                        Authorization: `token ${token}`
+                    }
+                });
+
+                if (!res.ok) {
+                    document.getElementById("status").innerText = `読み込みエラー: HTTP ${res.status}`;
+                    return;
+                }
+
+                const data = await res.json();
+
+                if (!data.content) {
+                    document.getElementById("status").innerText = "読み込んだレスポンスに content がありません。";
+                    return;
+                }
+
+                const decoded = atob(data.content);
+                document.getElementById("content").value = decoded;
+                document.getElementById("status").innerText = "読み込み成功";
+
+                // 保存時に必要な SHA を保持
+                window.fileSha = data.sha;
+            } catch (e) {
+                document.getElementById("status").innerText = "読み込み中にエラーが発生しました。";
+                console.error(e);
+            }
+        }
+
+        async function saveFile() {
+            const repo = document.getElementById("repo").value.trim();
+            const path = document.getElementById("path").value.trim();
+            const token = document.getElementById("token").value.trim();
+            const content = document.getElementById("content").value;
+
+            if (!repo || !path || !token) {
+                document.getElementById("status").innerText = "Repository / File Path / Token を入力してください。";
+                return;
+            }
+
+            if (!window.fileSha) {
+                document.getElementById("status").innerText = "先に『現在のフィルタを読み込む』を実行してください。";
+                return;
+            }
+
+            const url = `https://api.github.com/repos/${repo}/contents/${path}`;
+
+            try {
+                const res = await fetch(url, {
+                    method: "PUT",
+                    headers: {
+                        Authorization: `token ${token}`,
+                        "Content-Type": "application/json"
+                    },
+                    body: JSON.stringify({
+                        message: "update adguard filter",
+                        content: btoa(unescape(encodeURIComponent(content))),
+                        sha: window.fileSha
+                    })
+                });
+
+                if (res.status === 200 || res.status === 201) {
+                    document.getElementById("status").innerText = "保存完了（GitHub に反映されました）";
+                    const resJson = await res.json();
+                    // 次回更新用に新しい sha を更新
+                    if (resJson.content && resJson.content.sha) {
+                        window.fileSha = resJson.content.sha;
+                    }
+                } else {
+                    document.getElementById("status").innerText = `保存エラー: HTTP ${res.status}`;
+                }
+            } catch (e) {
+                document.getElementById("status").innerText = "保存中にエラーが発生しました。";
+                console.error(e);
+            }
+        }
+    </script>
+
+</body>
+</html>
