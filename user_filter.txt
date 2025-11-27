@@ -1,0 +1,72 @@
+@@||jav-fun.cc^$domain=jav-fun.cc
+@@||luluvdoo.com^$domain=jav-fun.cc
+@@||bigwarp.*^$domain=jav-fun.cc
+@@||savefiles.com^$domain=jav-fun.cc
+@@||dintezuvio.com^$domain=jav-fun.cc
+||*^$domain=jav-fun.cc
+
+@@||*lulu*.com^$domain=luluvdoo.com
+@@||*tnmr.org^$domain=luluvdoo.com
+||*^$domain=luluvdoo.com
+
+@@||*bigwarp*^$domain=bigwarp.pro
+||*^$domain=bigwarp.pro
+
+@@||*savefiles*^$domain=savefiles.com
+||*^$domain=savefiles.com
+
+@@||dintezuvio.com^$domain=dintezuvio.com
+@@||pixibay.cc^$domain=dintezuvio.com
+@@||*tiktokcdn.com^$domain=dintezuvio.com
+||*^$domain=dintezuvio.com
+
+www.youtube.com##.style-scope yt-reaction-control-panel-overlay-view-model
+
+sp.gch.jp###guidance-icon
+
+race.netkeiba.com##[class*="HorseListSort order1"]
+race.netkeiba.com##[class^="Mark_Pro"]
+race.netkeiba.com##[class="Cell_More"]
+race.netkeiba.com##[class="PaddockReport_Sample order1"]
+race.netkeiba.com##[class="PaddockReport order1"]
+race.sp.netkeiba.com##[class*="HorseListSort order1"]
+race.sp.netkeiba.com##[class^="Mark_Pro"]
+race.sp.netkeiba.com##[class="Cell_More"]
+race.sp.netkeiba.com##[class="PaddockReport_Sample order1"]
+race.sp.netkeiba.com##[class="PaddockReport order1"]
+race.sp.netkeiba.com##[class="PremiumIntroBox02"]
+nar.netkeiba.com##[class^="Mark_Pro"]
+nar.netkeiba.com##[class="Cell_More"]
+
+kyoteibiyori.com##[style="position: fixed; bottom: 44px; left: 0; width: 100%; z-index:2147483647; flex-direction: row; justify-content: flex-start; display: flex;"]
+kyoteibiyori.com##[style="padding:2px;margin: 2px 2px;font-weight: bold;border:1px solid #FF7473;background:#fdeeef;"]
+
+twitch.tv###stream-lowerthird
+twitch.tv##.Layout-sc-1xcs6mc-0.fiHaCw.stream-chat-header
+twitch.tv###live-page-chat > div.channel-root__right-column.channel-root__right-column--expanded > div.Layout-sc-1xcs6mc-0.gGbkYh > div.Layout-sc-1xcs6mc-0.iTiPMO.chat-shell.chat-shell__expanded:last-child > div.Layout-sc-1xcs6mc-0.iXGonq > div.Layout-sc-1xcs6mc-0.iynFwo.stream-chat > section.InjectLayout-sc-1i43xsx-0.chat-room.ghyOuh:last-child > div.Layout-sc-1xcs6mc-0.fhQiFC.chat-room__content > div.Layout-sc-1xcs6mc-0:first-child
+twitch.tv##[class*="right-column__toggle-visibility"]
+
+x.com##[href="/i/premium_sign_up"]
+
+jra-tickets.jp###js_popup
+
+navi-keiba.com##[class^="keiba-pr-"]
+
+keiba-wiki.com##[class="is-style-icon_info has-border -border02"]
+keiba-wiki.com##p:has-text(外厩情報で稼ぐために)
+keiba-wiki.com##p:has-text(オッズが温存された馬を1～2点までの点数で)
+keiba-wiki.com##p:has-text(状態の良い馬の「単勝や複勝」)
+keiba-wiki.com##p:has-text(上位互換できる買い目)
+keiba-wiki.com##p:has-text(状態◎の高確率２頭)
+keiba-wiki.com##p:has-text(ワイド2点)
+keiba-wiki.com##figcaption:has-text(この外厩情報の基礎知識は)
+keiba-wiki.com##a:has-text(近5走の成績を詳しく見る)
+keiba-wiki.com##p:has-text(📚), p:has-text(👀)
+
+bilibili.com##.bili-mini-mask
+bilibili.com##.mini-login-container
+bilibili.com##.bili-dialog-m
+bilibili.com##.login-tip
+bilibili.com##.login-box
+bilibili.com##.bili-popover
+bilibili.com##.bpx-player-toast-auto
