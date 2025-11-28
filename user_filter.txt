@@ -24,6 +24,29 @@
 @@||*tiktokcdn.com^$domain=dintezuvio.com
 ||*^$domain=dintezuvio.com
 
+jav-fun.cc##+js(aopr, window.open)
+jav-fun.cc##+js(aopr, open)
+jav-fun.cc##+js(aopw, onclick)
+jav-fun.cc##+js(aopr, click)
+jav-fun.cc##+js(aopr, popunder)
+jav-fun.cc##+js(aopr, push)
+
+jav-fun.cc##iframe
+jav-fun.cc##.ads
+jav-fun.cc##.ad
+jav-fun.cc##.ad-box
+jav-fun.cc##.pop
+jav-fun.cc##.popup
+jav-fun.cc##.over
+jav-fun.cc##.modal
+jav-fun.cc##.overlay
+jav-fun.cc##.banner
+
+jav-fun.cc##+js(aopr, ad)
+jav-fun.cc##+js(aopr, clickurl)
+jav-fun.cc##+js(aopr, targetUrl)
+jav-fun.cc##+js(aopr, redirect)
+
 www.youtube.com##.style-scope yt-reaction-control-panel-overlay-view-model
 
 sp.gch.jp###guidance-icon
