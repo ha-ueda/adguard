@@ -1,5 +1,5 @@
 ! Title: ユーザールール
-! Version: 2025.12.02.02
+! Version: 20251202
 ! Expires: 1 days
 ! Homepage: https://ha-ueda.github.io/AdGuard/
 
