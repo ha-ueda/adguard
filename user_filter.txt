@@ -1,6 +1,7 @@
 ! Title: ユーザールール
-! Version: 2025.12.2
-! Homepage: https://ha-ueda.github.io/AdGuard
+! Version: 2025.12.02.01
+! Expires: 1 days
+! Homepage: https://ha-ueda.github.io/AdGuard/
 
 @@||jav-fun.cc^$domain=jav-fun.cc
 @@||luluvdoo.com^$domain=jav-fun.cc
