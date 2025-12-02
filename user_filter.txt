@@ -74,3 +74,5 @@ bilibili.com##.login-tip
 bilibili.com##.login-box
 bilibili.com##.bili-popover
 bilibili.com##.bpx-player-toast-auto
+
+koe-koe.com###ak_ad
