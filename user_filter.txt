@@ -8,8 +8,6 @@
 @@||bigwarp.*^$domain=jav-fun.cc
 @@||savefiles.com^$domain=jav-fun.cc
 @@||dintezuvio.com^$domain=jav-fun.cc
-@@||d0000d.com^$domain=jav-fun.cc
-@@||myvidplay.com^$domain=jav-fun.cc
 ||*^$domain=jav-fun.cc
 
 @@||*lulu*.com^$domain=luluvdoo.com
