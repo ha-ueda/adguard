@@ -1,5 +1,5 @@
 ! Title: ユーザールール
-! Version: 20260103
+! Version: 20260107
 ! Expires: 1 days
 ! Homepage: https://ha-ueda.github.io/adguard/
 
@@ -12,13 +12,14 @@ race.netkeiba.com##[class^="Mark_Pro"]
 race.netkeiba.com##[class="Cell_More"]
 race.netkeiba.com##[class="PaddockReport_Sample order1"]
 race.netkeiba.com##[class="PaddockReport order1"]
+sp.netkeiba.com###colorbox
 race.sp.netkeiba.com##[class*="HorseListSort order1"]
 race.sp.netkeiba.com##[class^="Mark_Pro"]
 race.sp.netkeiba.com##[class="Cell_More"]
 race.sp.netkeiba.com##[class="PaddockReport_Sample order1"]
 race.sp.netkeiba.com##[class="PaddockReport order1"]
 race.sp.netkeiba.com##[class="PremiumIntroBox02"]
-sp.netkeiba.com###colorbox
+race.sp.netkeiba.com###master_campaign_trial_link
 nar.netkeiba.com##[class^="Mark_Pro"]
 nar.netkeiba.com##[class="Cell_More"]
 
