@@ -1,7 +1,6 @@
 ! Title: ユーザールール
-! Version: 20260107
+! Version: 20260121
 ! Expires: 1 days
-! Homepage: https://ha-ueda.github.io/adguard/
 
 www.youtube.com##.style-scope yt-reaction-control-panel-overlay-view-model
 
@@ -13,13 +12,37 @@ race.netkeiba.com##[class="Cell_More"]
 race.netkeiba.com##[class="PaddockReport_Sample order1"]
 race.netkeiba.com##[class="PaddockReport order1"]
 sp.netkeiba.com###colorbox
+race.sp.netkeiba.com##footer
+race.sp.netkeiba.com###master_campaign_trial_link
 race.sp.netkeiba.com##[class*="HorseListSort order1"]
 race.sp.netkeiba.com##[class^="Mark_Pro"]
 race.sp.netkeiba.com##[class="Cell_More"]
 race.sp.netkeiba.com##[class="PaddockReport_Sample order1"]
 race.sp.netkeiba.com##[class="PaddockReport order1"]
 race.sp.netkeiba.com##[class="PremiumIntroBox02"]
-race.sp.netkeiba.com###master_campaign_trial_link
+race.sp.netkeiba.com##[class^="RaceDataPickup"]
+race.sp.netkeiba.com##[class="KeirinBlockBnr01"]
+race.sp.netkeiba.com##[class="Recommend_App Contents_Box"]
+race.sp.netkeiba.com##[class^="Description_Box"]
+race.sp.netkeiba.com##[class="Title_3rd Master"]
+race.sp.netkeiba.com##[class="Table_Compatibility_Wrap"]
+race.sp.netkeiba.com##[class^="RaceInfo_Notice01"]
+race.sp.netkeiba.com##[class="race_tenkai_naviContainer"]
+race.sp.netkeiba.com##[class="Race_Infomation_Box"]
+race.sp.netkeiba.com##[class="RaceMenuList RaceMenuSub fc"]
+race.sp.netkeiba.com##[class^="Title_Sec"]
+race.sp.netkeiba.com##[class="Txt_C mt10 mb10"]
+race.sp.netkeiba.com##[class="Related_Column List_01"]
+race.sp.netkeiba.com##[class="PickUpYosoka_Inner"]
+race.sp.netkeiba.com##[class="Master_Regist_Box"]
+race.sp.netkeiba.com##[href="https://dir.netkeiba.com/ai_yoso_win5/?rf=shutuba"]
+race.sp.netkeiba.com##[href="https://dir.netkeiba.com/ai_yoso_win5/?rf=win5"]
+race.sp.netkeiba.com##[id="tv_race_top"]
+race.sp.netkeiba.com##[id="tv_digest_area"]
+race.sp.netkeiba.com##[id="delay_recommend_race"]
+race.sp.netkeiba.com##[id^="delay_umai_"]
+race.sp.netkeiba.com##[id="race_special_digest"]
+race.sp.netkeiba.com##[id="rece_special_digest_area"]
 nar.netkeiba.com##[class^="Mark_Pro"]
 nar.netkeiba.com##[class="Cell_More"]
 
