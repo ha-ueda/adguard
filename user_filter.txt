@@ -21,6 +21,7 @@ race.sp.netkeiba.com##[class="PaddockReport_Sample order1"]
 race.sp.netkeiba.com##[class="PaddockReport order1"]
 race.sp.netkeiba.com##[class="PremiumIntroBox02"]
 race.sp.netkeiba.com##[class="AppLink"]
+race.sp.netkeiba.com##[class="db_link"]
 nar.netkeiba.com##[class^="Mark_Pro"]
 nar.netkeiba.com##[class="Cell_More"]
 
