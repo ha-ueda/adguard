@@ -1,5 +1,5 @@
 ! Title: ユーザールール
-! Version: 20260124
+! Version: 20260225
 ! Expires: 1 days
 
 www.youtube.com##.style-scope yt-reaction-control-panel-overlay-view-model
