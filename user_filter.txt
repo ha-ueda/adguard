@@ -1,5 +1,44 @@
 ! Title: ユーザールール
-! Version: 20260304
+! Version: 20260327
+
+! 2026-03-27
+||excavatenearbywand.com^ 
+||guidepaparazzisurface.com^
+||hibernateongoing.com^
+||cdn.prplad.com^
+||jav-fun.cc^$popup
+jav-fun.cc##script[data-clocid]
+jav-fun.cc##script[data-clbaid]
+jav-fun.cc#%#//scriptlet('abort-on-property-write', 'qshejc')
+jav-fun.cc#%#//scriptlet('abort-on-property-write', 'almblrg')
+jav-fun.cc#%#//scriptlet('abort-current-inline-script', 'fetch', 'prplad')
+jav-fun.cc##iframe[style*="visibility: hidden"]
+jav-fun.cc##iframe:not([id="video-iframe"])[src*="challenge-platform"]
+||xadsmart.com^
+||ujpyowbdxe.com^
+||coozihzv.com^
+||d11enq2rymy0yl.cloudfront.net^
+||waust.at^
+||jav-noni.net^$popup
+jav-noni.net#%#//scriptlet('abort-on-property-write', 'cfa2dbe20b37d0731db804e1d54d91e4')
+||mbada.nan.co.jp/delivery^
+koe-koe.com##div.adsense
+koe-koe.com##div#nan_ad
+koe-koe.com##div#nan_ad2
+koe-koe.com##div.collabo_banner
+||a.magsrv.com^
+||magsrv.com^
+hitomi.la##ins.eas6a97888e
+hitomi.la##div.VllqVLSqNQvH5hUs
+hitomi.la##div.QiiadPvGJFVoOit
+hitomi.la##div.fLdwVrEGe
+hitomi.la##div.wZDEkG3LtP
+||coverdistilltile.com^
+hitomi.la##script[data-clocid]
+||hitomi.la^$popup
+hitomi.la#%#//scriptlet('abort-on-property-write', 'rqlylt')
+hitomi.la#%#//scriptlet('abort-on-property-write', 'AdProvider')
+
 
 www.youtube.com##.style-scope yt-reaction-control-panel-overlay-view-model
 
