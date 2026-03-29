@@ -1,7 +1,11 @@
 ! Title: ユーザールール
-! Version: 20260329
+! Version: 20260330
 
-! 2026-03-27
+! 20260330
+race.sp.netkeiba.com##div#colorbox
+race.sp.netkeiba.com##div#cboxOverlay
+
+! 20260327
 ||excavatenearbywand.com^ 
 ||guidepaparazzisurface.com^
 ||hibernateongoing.com^
