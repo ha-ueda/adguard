@@ -4,6 +4,9 @@
 ! 20260331
 soraraw.com##[class^="flex fixed chapter-detail_fixedMenu"]
 soraraw.com##[class^="hidden fixed text-gray-500"]
+soraraw.com##[class="flex flex-col w-full mt-1.5"]
+soraraw.com##[class="flex items-center w-[40px]"]
+soraraw.com##[class="flex items-center justify-center flex-col"]
 
 ! 20260330
 race.sp.netkeiba.com##div#colorbox
