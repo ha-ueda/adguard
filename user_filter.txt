@@ -1,6 +1,9 @@
 ! Title: ユーザールール
 ! Version: 20260331
 
+! 20260331
+soraraw.com##[class^="flex fixed chapter-detail_fixedMenu"]
+
 ! 20260330
 race.sp.netkeiba.com##div#colorbox
 race.sp.netkeiba.com##div#cboxOverlay
