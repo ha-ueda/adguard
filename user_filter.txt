@@ -46,7 +46,6 @@ keiba-wiki.com##p:has-text(ワイド2点)
 keiba-wiki.com##figcaption:has-text(この外厩情報の基礎知識は)
 keiba-wiki.com##a:has-text(近5走の成績を詳しく見る)
 keiba-wiki.com##p:has-text(📚), p:has-text(👀)
-
 bilibili.com##.bili-mini-mask
 bilibili.com##.mini-login-container
 bilibili.com##.bili-dialog-m
