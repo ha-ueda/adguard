@@ -1,50 +1,13 @@
 ! Title: ユーザールール
-! Version: 20260330
+! Version: 20260331
 
 ! 20260330
 race.sp.netkeiba.com##div#colorbox
 race.sp.netkeiba.com##div#cboxOverlay
 
-! 20260327
-||excavatenearbywand.com^ 
-||guidepaparazzisurface.com^
-||hibernateongoing.com^
-||cdn.prplad.com^
-jav-fun.cc##script[data-clocid]
-jav-fun.cc##script[data-clbaid]
-jav-fun.cc#%#//scriptlet('abort-on-property-write', 'qshejc')
-jav-fun.cc#%#//scriptlet('abort-on-property-write', 'almblrg')
-jav-fun.cc#%#//scriptlet('abort-current-inline-script', 'fetch', 'prplad')
-jav-fun.cc##iframe[style*="visibility: hidden"]
-jav-fun.cc##iframe:not([id="video-iframe"])[src*="challenge-platform"]
-||xadsmart.com^
-||ujpyowbdxe.com^
-||coozihzv.com^
-||d11enq2rymy0yl.cloudfront.net^
-||waust.at^
-jav-noni.net#%#//scriptlet('abort-on-property-write', 'cfa2dbe20b37d0731db804e1d54d91e4')
-||mbada.nan.co.jp/delivery^
-koe-koe.com##div.adsense
-koe-koe.com##div#nan_ad
-koe-koe.com##div#nan_ad2
-koe-koe.com##div.collabo_banner
-||a.magsrv.com^
-||magsrv.com^
-hitomi.la##ins.eas6a97888e
-hitomi.la##div.VllqVLSqNQvH5hUs
-hitomi.la##div.QiiadPvGJFVoOit
-hitomi.la##div.fLdwVrEGe
-hitomi.la##div.wZDEkG3LtP
-||coverdistilltile.com^
-hitomi.la##script[data-clocid]
-hitomi.la#%#//scriptlet('abort-on-property-write', 'rqlylt')
-hitomi.la#%#//scriptlet('abort-on-property-write', 'AdProvider')
-
-
+! 20260124
 www.youtube.com##.style-scope yt-reaction-control-panel-overlay-view-model
-
 sp.gch.jp###guidance-icon
-
 race.netkeiba.com##[class*="HorseListSort order1"]
 race.netkeiba.com##[class^="Mark_Pro"]
 race.netkeiba.com##[class="Cell_More"]
@@ -63,22 +26,16 @@ race.sp.netkeiba.com##[class="AppLink"]
 race.sp.netkeiba.com##[class="db_link"]
 nar.netkeiba.com##[class^="Mark_Pro"]
 nar.netkeiba.com##[class="Cell_More"]
-
 kyoteibiyori.com##[style="position: fixed; bottom: 44px; left: 0; width: 100%; z-index:2147483647; flex-direction: row; justify-content: flex-start; display: flex;"]
 kyoteibiyori.com##[style="padding:2px;margin: 2px 2px;font-weight: bold;border:1px solid #FF7473;background:#fdeeef;"]
-
 twitch.tv###stream-lowerthird
 twitch.tv##.Layout-sc-1xcs6mc-0.fiHaCw.stream-chat-header
 twitch.tv###live-page-chat > div.channel-root__right-column.channel-root__right-column--expanded > div.Layout-sc-1xcs6mc-0.gGbkYh > div.Layout-sc-1xcs6mc-0.iTiPMO.chat-shell.chat-shell__expanded:last-child > div.Layout-sc-1xcs6mc-0.iXGonq > div.Layout-sc-1xcs6mc-0.iynFwo.stream-chat > section.InjectLayout-sc-1i43xsx-0.chat-room.ghyOuh:last-child > div.Layout-sc-1xcs6mc-0.fhQiFC.chat-room__content > div.Layout-sc-1xcs6mc-0:first-child
 twitch.tv##[class*="right-column__toggle-visibility"]
 twitch.tv###live-page-chat > div.channel-root__right-column.channel-root__right-column--expanded > div.Layout-sc-1xcs6mc-0.cCSAoN > div.Layout-sc-1xcs6mc-0.LJevC.chat-shell.chat-shell__expanded:last-child > div.Layout-sc-1xcs6mc-0.gDDWxy > div.Layout-sc-1xcs6mc-0.gyMdFQ.stream-chat:last-child > section.InjectLayout-sc-1i43xsx-0.chat-room.gDqBeh:last-child > div.Layout-sc-1xcs6mc-0.bXENUW.chat-room__content > div.ScTransitionBase-sc-hx4quq-0.hhLPgp.tw-transition:first-child
-
 x.com##[href="/i/premium_sign_up"]
-
 jra-tickets.jp###js_popup
-
 navi-keiba.com##[class^="keiba-pr-"]
-
 keiba-wiki.com##[class="is-style-icon_info has-border -border02"]
 keiba-wiki.com##p:has-text(外厩情報で稼ぐために)
 keiba-wiki.com##p:has-text(オッズが温存された馬を1～2点までの点数で)
@@ -97,9 +54,7 @@ bilibili.com##.login-tip
 bilibili.com##.login-box
 bilibili.com##.bili-popover
 bilibili.com##.bpx-player-toast-auto
-
 smartrc.jp###ext-global-floatWrap
-
 /.com/[0-9,a-z,A-Z]*/[0-9]{5}/$script,domain=kuncomic.com|rawxz.si|rawinu.com|weloma.art|rule34video.com|rawxz.to|iplayerhls.com|hentai-one.com|rawxz.pro|rawxz.co|nukibooks.com|katfile.com|klz9.com|fikper.com|jestful.net|rawxz1.com|mexa.sh|gogoanime.co.at|hentaipaw.com|mangaraw.best|rawxz1.net|mangagun.net|watchadsontape.com|hentaigo.net|asmroger.top|movies2watch.tv|b9good.org|nhentai.website|mangaraw.fish|aniwave.se|anitube.biz|allappinc.com|9tsu.cc|9tsu.vip|b9dm.org|rawxz.io|mangakoma01.com|jav-fun.cc|9tsu.tv|rawkuro.net|kmansin09.top|manhwatop.com|mangakoma01.org|2conv.com|luluvdo.com|lulu.st|flexion.jp|mangakoma01.org|sotwe.com|xpinay.biz|tokiraw.com|jmanga.lat|colamanga.com|archivebate.cc|mixdrop.my|archivebate.com|rawxz.asia|xiaoyakankan.com|noni-jav.com|savefiles.com|mixixxx000000.cyou|rawxjp.com|rawxjp.come|noni-av.com|bigwarp.cc|tapepops.com|spoilerraw.net|romsfun.com|animeidhentai.com|ddd-smart.net|miomio.guru|rawkuma.net|vvide0.com|javideo.net|jmangaz.com|yomiraw.com|dailyuploads.net|javlion.xyz|eromanga-show.com|ryderjet.com|mangareader.to|nihonkuni.com|jav-coco.com|bigwarp.pro|asmroger.com|mn4u.net|mixiporn.fun|viprow.nu|welovemanga.one|klmanga1.com|rawjx.com|klmanga1.lol|noni-xxx.cc|9anime.vip|advertape.net|klmanga1.info|klmanga1.info|twstalker.com|nonixxx.cc|tk2dl.com|mangarawjapan.blog.fc2.com|hentai-jp.com|8tsu.net|goplay.ml
 &id=$third-party,script,domain=ero-anime.website|javmix.tv|jav-fun.cc|spoilerplus.tv|hentaipaw.com|eromanga-show.com|javboys.com|poapan.xyz|doujinnomori.com|nukibooks.com|asianporn.li|mangaraw.ma|mangajikan.com|kemono.su|japan-whores.com|klmanga.ec|jmanga.li|watchadsontape.com|rawkuma.com|bunkr-albums.io|bunkr.cr|rawkuma.net|xpinay.biz|archivebate.cc|archivebate.com|savefiles.com|mixixxx000000.cyou|mangaraw.ac|nudogram.com|kurocore.com|shinshi-manga.net|vvide0.com|klmanga.app|highporn.net|ansuko.net|mitaku.net
 bipblog.com,jav-fun.cc,korewaeroi.com##div>iframe:not([id])
