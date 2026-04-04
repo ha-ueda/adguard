@@ -1,14 +1,13 @@
 ! Title: ユーザールール
-! Version: 20260331
+! Version: 20260404
+
+! 20260404
+||s1.hdslb.com/bfs/static/jinkela/mstation-h5-new/5.mstation.*$domain=m.bilibili.com   
 
 ! 20260331
 soraraw.com##[class^="flex fixed chapter-detail_fixedMenu"]
 soraraw.com##[class^="hidden fixed text-gray-500"]
 soraraw.com##[class="flex flex-col w-full mt-1.5"]
-
-! 20260330
-race.sp.netkeiba.com##div#colorbox
-race.sp.netkeiba.com##div#cboxOverlay
 
 ! 20260124
 www.youtube.com##.style-scope yt-reaction-control-panel-overlay-view-model
