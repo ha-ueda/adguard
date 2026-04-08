@@ -1,5 +1,8 @@
 ! Title: ユーザールール
-! Version: 20260404
+! Version: 20260408
+
+! 20260408
+race.sp.netkeiba.com#%#//scriptlet('remove-class', 'PastLine', '.PastLine')
 
 ! 20260331
 soraraw.com##[class^="flex fixed chapter-detail_fixedMenu"]
