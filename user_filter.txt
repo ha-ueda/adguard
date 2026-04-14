@@ -1,6 +1,9 @@
 ! Title: ユーザールール
 ! Version: 20260415
 
+! 20260415
+@@||luluvdo.com^$important,document
+
 ! 20260408
 race.sp.netkeiba.com#%#//scriptlet('remove-class', 'PastLine', '.PastLine')
 
