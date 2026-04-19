@@ -1,8 +1,11 @@
 ! Title: ユーザールール
-! Version: 20260415
+! Version: 20260419
+
+! 20260419
+||ad.abema.io^
 
 ! 20260415
-@@||luluvdo.com^$important,document
+@@||luluvdo.com^$document
 
 ! 20260408
 race.sp.netkeiba.com#%#//scriptlet('remove-class', 'PastLine', '.PastLine')
