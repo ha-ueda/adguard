@@ -1,5 +1,21 @@
 ! Title: ユーザールール
-! Version: 20260419
+! Version: 20260420
+
+! 20260420
+||countess.twitch.tv^
+||imasdk.googleapis.com^$domain=twitch.tv
+||amazon-adsystem.com^$domain=twitch.tv
+||doubleclick.net^$domain=twitch.tv
+||googlesyndication.com^$domain=twitch.tv
+||pubads.g.doubleclick.net^$domain=twitch.tv
+||player-event-reporter.twitch.tv^
+||gql.twitch.tv/gql$replace=/"hasAds":true/"hasAds":false/i
+twitch.tv##.ad-interrupt-screen
+twitch.tv##.ad-banner
+twitch.tv##[data-a-target="player-ad-notice"]
+twitch.tv##.persistent-player__ad-container
+twitch.tv##[data-test-selector="ad-banner-default-text"]
+m.twitch.tv##.ad-interrupt-screen
 
 ! 20260419
 ||ad.abema.io^
