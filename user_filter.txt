@@ -1,5 +1,10 @@
 ! Title: ユーザールール
-! Version: 20260420
+! Version: 20260424
+
+! 20260424
+@@||jra.go.jp^
+@@||sp.jra.jp^
+@@||jra-tickets.jp^
 
 ! 20260420
 ||countess.twitch.tv^
