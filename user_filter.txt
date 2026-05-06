@@ -1,5 +1,8 @@
 ! Title: ユーザールール
-! Version: 20260424
+! Version: 20260507
+
+! 20260507
+@@||vidara.so^$document
 
 ! 20260424
 @@||jra.go.jp^
