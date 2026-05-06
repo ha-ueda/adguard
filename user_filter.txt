@@ -2,7 +2,7 @@
 ! Version: 20260507
 
 ! 20260507
-@@||vidara.so^$document
+@@||vidara.so^
 
 ! 20260424
 @@||jra.go.jp^
@@ -29,7 +29,7 @@ m.twitch.tv##.ad-interrupt-screen
 ||ad.abema.io^
 
 ! 20260415
-@@||luluvdo.com^$document
+@@||luluvdo.com^
 
 ! 20260408
 race.sp.netkeiba.com#%#//scriptlet('remove-class', 'PastLine', '.PastLine')
