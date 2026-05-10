@@ -1,5 +1,9 @@
 ! Title: ユーザールール
-! Version: 20260507
+! Version: 20260510
+
+! 20260510
+smartrc.jp##[id="ext-authpanel-1"]
+smartrc.jp##[class="x-mask"]
 
 ! 20260507
 @@||vidara.so^
@@ -87,7 +91,7 @@ bilibili.com##.login-tip
 bilibili.com##.login-box
 bilibili.com##.bili-popover
 bilibili.com##.bpx-player-toast-auto
-smartrc.jp###ext-global-floatWrap
+! smartrc.jp###ext-global-floatWrap
 /.com/[0-9,a-z,A-Z]*/[0-9]{5}/$script,domain=kuncomic.com|rawxz.si|rawinu.com|weloma.art|rule34video.com|rawxz.to|iplayerhls.com|hentai-one.com|rawxz.pro|rawxz.co|nukibooks.com|katfile.com|klz9.com|fikper.com|jestful.net|rawxz1.com|mexa.sh|gogoanime.co.at|hentaipaw.com|mangaraw.best|rawxz1.net|mangagun.net|watchadsontape.com|hentaigo.net|asmroger.top|movies2watch.tv|b9good.org|nhentai.website|mangaraw.fish|aniwave.se|anitube.biz|allappinc.com|9tsu.cc|9tsu.vip|b9dm.org|rawxz.io|mangakoma01.com|jav-fun.cc|9tsu.tv|rawkuro.net|kmansin09.top|manhwatop.com|mangakoma01.org|2conv.com|luluvdo.com|lulu.st|flexion.jp|mangakoma01.org|sotwe.com|xpinay.biz|tokiraw.com|jmanga.lat|colamanga.com|archivebate.cc|mixdrop.my|archivebate.com|rawxz.asia|xiaoyakankan.com|noni-jav.com|savefiles.com|mixixxx000000.cyou|rawxjp.com|rawxjp.come|noni-av.com|bigwarp.cc|tapepops.com|spoilerraw.net|romsfun.com|animeidhentai.com|ddd-smart.net|miomio.guru|rawkuma.net|vvide0.com|javideo.net|jmangaz.com|yomiraw.com|dailyuploads.net|javlion.xyz|eromanga-show.com|ryderjet.com|mangareader.to|nihonkuni.com|jav-coco.com|bigwarp.pro|asmroger.com|mn4u.net|mixiporn.fun|viprow.nu|welovemanga.one|klmanga1.com|rawjx.com|klmanga1.lol|noni-xxx.cc|9anime.vip|advertape.net|klmanga1.info|klmanga1.info|twstalker.com|nonixxx.cc|tk2dl.com|mangarawjapan.blog.fc2.com|hentai-jp.com|8tsu.net|goplay.ml|jav-noni.net
 &id=$third-party,script,domain=ero-anime.website|javmix.tv|jav-fun.cc|spoilerplus.tv|hentaipaw.com|eromanga-show.com|javboys.com|poapan.xyz|doujinnomori.com|nukibooks.com|asianporn.li|mangaraw.ma|mangajikan.com|kemono.su|japan-whores.com|klmanga.ec|jmanga.li|watchadsontape.com|rawkuma.com|bunkr-albums.io|bunkr.cr|rawkuma.net|xpinay.biz|archivebate.cc|archivebate.com|savefiles.com|mixixxx000000.cyou|mangaraw.ac|nudogram.com|kurocore.com|shinshi-manga.net|vvide0.com|klmanga.app|highporn.net|ansuko.net|mitaku.net|jav-noni.net
 bipblog.com,jav-fun.cc,korewaeroi.com##div>iframe:not([id])
