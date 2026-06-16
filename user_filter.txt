@@ -1,5 +1,8 @@
 ! Title: ユーザールール
-! Version: 20260601
+! Version: 20260617
+
+! 20260617
+gofile-douga.com##[aria-label="広告"]
 
 ! 20260529
 soraraw.com###__next > div:last-child > div.ant-app > main.h-full > div.relative.min-h-\[calc\(100vh-430px\)\].z-12:first-child > div.flex.min-h-\[calc\(100vh-65px\)\].items-center.justify-center.relative:nth-child(2) > div.flex.items-center.justify-start.max-w-\[720px\] > div.overflow-y-auto > div.relative:last-child > div.w-full.max-w-\[720px\].bg-white.text-black.flex.items-center.justify-center.px-4.py-24:last-child
