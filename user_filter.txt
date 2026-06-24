@@ -1,5 +1,5 @@
 ! Title: ユーザールール
-! Version: 20260617
+! Version: 20260624
 
 ! 20260617
 gofile-douga.com##[aria-label="広告"]
@@ -75,7 +75,7 @@ kyoteibiyori.com##[style="padding:2px;margin: 2px 2px;font-weight: bold;border:1
 twitch.tv###stream-lowerthird
 twitch.tv##.Layout-sc-1xcs6mc-0.fiHaCw.stream-chat-header
 twitch.tv###live-page-chat > div.channel-root__right-column.channel-root__right-column--expanded > div.Layout-sc-1xcs6mc-0.gGbkYh > div.Layout-sc-1xcs6mc-0.iTiPMO.chat-shell.chat-shell__expanded:last-child > div.Layout-sc-1xcs6mc-0.iXGonq > div.Layout-sc-1xcs6mc-0.iynFwo.stream-chat > section.InjectLayout-sc-1i43xsx-0.chat-room.ghyOuh:last-child > div.Layout-sc-1xcs6mc-0.fhQiFC.chat-room__content > div.Layout-sc-1xcs6mc-0:first-child
-twitch.tv##[class*="right-column__toggle-visibility"]
+! twitch.tv##[class*="right-column__toggle-visibility"]
 twitch.tv###live-page-chat > div.channel-root__right-column.channel-root__right-column--expanded > div.Layout-sc-1xcs6mc-0.cCSAoN > div.Layout-sc-1xcs6mc-0.LJevC.chat-shell.chat-shell__expanded:last-child > div.Layout-sc-1xcs6mc-0.gDDWxy > div.Layout-sc-1xcs6mc-0.gyMdFQ.stream-chat:last-child > section.InjectLayout-sc-1i43xsx-0.chat-room.gDqBeh:last-child > div.Layout-sc-1xcs6mc-0.bXENUW.chat-room__content > div.ScTransitionBase-sc-hx4quq-0.hhLPgp.tw-transition:first-child
 x.com##[href="/i/premium_sign_up"]
 jra-tickets.jp###js_popup
