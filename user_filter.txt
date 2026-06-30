@@ -1,8 +1,8 @@
 ! Title: ユーザールール
-! Version: 20260630
+! Version: 2026063001
 
 ! 20260630
-*$popup,domain=jav-fun.cc
+*$popup,domain,important=jav-fun.cc
 
 ! 20260617
 gofile-douga.com##[aria-label="広告"]
