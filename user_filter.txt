@@ -1,8 +1,8 @@
 ! Title: ユーザールール
-! Version: 2026063002
+! Version: 2026063003
 
 ! 20260630
-*$popup,domain=jav-fun.cc,important
+*$popup,domain=jav-fun.cc|hitomi.la,important
 
 ! 20260617
 gofile-douga.com##[aria-label="広告"]
