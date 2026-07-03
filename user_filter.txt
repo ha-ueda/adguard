@@ -1,6 +1,5 @@
 ! Title: ユーザールール
 ! Version: 20260703
-! Homepage: https://raw.githubusercontent.com/ha-ueda/adguard/refs/heads/main/user_filter.txt
 
 ! 20260630
 ! *$popup,domain=jav-fun.cc|hitomi.la,important
