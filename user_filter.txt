@@ -1,5 +1,8 @@
 ! Title: ユーザールール
-! Version: 20260703
+! Version: 20260709
+
+! 20260709
+||s.pemsrv.com^$popup,important
 
 ! 20260630
 ! *$popup,domain=jav-fun.cc|hitomi.la,important
