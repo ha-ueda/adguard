@@ -1,8 +1,9 @@
 ! Title: ユーザールール
-! Version: 20260711
+! Version: 2026071101
 
 ! 20260711
 hitomi.la#%#//scriptlet('prevent-window-open')
+jav-fun.cc#%#//scriptlet('abort-current-script', 'atob', '/popundersPerIP[\s\S]*?(Date|createElement)[\s\S]*?getElementsByTagName[\s\S]*?insertBefore|w47DisKcw5g/')
 
 ! 20260709
 ||s.pemsrv.com^$popup,important
