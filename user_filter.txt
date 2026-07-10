@@ -1,5 +1,8 @@
 ! Title: ユーザールール
-! Version: 20260709
+! Version: 20260711
+
+! 20260711
+hitomi.la#%#//scriptlet('prevent-window-open')
 
 ! 20260709
 ||s.pemsrv.com^$popup,important
