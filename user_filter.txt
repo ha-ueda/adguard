@@ -1,5 +1,8 @@
 ! Title: ユーザールール
-! Version: 2026071102
+! Version: 20260712
+
+! 20260712
+||s.pemsrv.com^
 
 ! 20260711
 hitomi.la#%#//scriptlet('prevent-window-open')
@@ -46,7 +49,7 @@ twitch.tv##[data-test-selector="ad-banner-default-text"]
 m.twitch.tv##.ad-interrupt-screen
 
 ! 20260419
-! ||ad.abema.io^
+||ad.abema.io^
 
 ! 20260415
 @@||luluvdo.com^
