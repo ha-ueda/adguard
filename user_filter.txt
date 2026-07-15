@@ -1,5 +1,8 @@
 ! Title: ユーザールール
-! Version: 20260712
+! Version: 20260715
+
+! 20260715
+jav-noni.vip#%#//scriptlet('prevent-window-open')
 
 ! 20260712
 ||s.pemsrv.com^
