@@ -3,6 +3,8 @@
 
 ! 20260908
 www.twitch.tv#?#button:has([class*="channelLeaderboardHeaderRotating__users"]):upward(8)
+www.twitch.tv#?#button:has([data-testid="leaderboard-top-three-entry"]):upward(8)
+www.twitch.tv#?#div[class="Layout-sc-1xcs6mc-0"]:contains(サブスクをギフトして1位になろう)
 
 ! 20260905
 avgle.net#%#//scriptlet('prevent-window-open')
