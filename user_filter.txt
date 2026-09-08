@@ -1,5 +1,8 @@
 ! Title: ユーザールール
-! Version: 20260905
+! Version: 20260908
+
+! 20260908
+www.twitch.tv#?#button:has([class*="channelLeaderboardHeaderRotating__users"]):upward(8)
 
 ! 20260905
 avgle.net#%#//scriptlet('prevent-window-open')
