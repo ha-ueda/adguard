@@ -1,5 +1,8 @@
 ! Title: ユーザールール
-! Version: 20260910
+! Version: 20260913
+
+! 20260913
+kissjav.li#%#//scriptlet('prevent-window-open')
 
 ! 20260910
 soraraw.com##.ReactionPanel_innerDefault__n34CW
